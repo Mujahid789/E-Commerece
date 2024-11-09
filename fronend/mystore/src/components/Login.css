@@ -1,0 +1,53 @@
+
+
+.main{
+    background-color: rgb(136, 183, 19);
+    /* width: 500px; */
+    margin-top: 50px;
+    color: white;
+    border-radius: 20px;
+    
+    
+}
+
+.fom{
+    /* padding: 60px; */
+    text-align: start;
+    color: black;
+}
+/*   for sign up*/
+
+
+.registermain{
+    background-color: rgb(136, 183, 19);
+    /* width: 500px; */
+    margin-top: 50px;
+    color: white;
+    border-radius: 20px;
+    
+    
+}
+
+.registerfom{
+    /* padding: 60px; */
+    text-align: start;
+    color: black;
+}
+
+
+@media screen and (min-width: 768px) {
+  .main {
+    width: 400px;
+  }
+  .fom{
+    padding: 10px;
+  }
+  .registermain{
+    width: 700px;
+  }
+  .registerfom{
+    padding: 60px;
+  }
+}
+
+
